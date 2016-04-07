@@ -1,3 +1,6 @@
+## Description
+This container is usefull to run tests for tuleap realtime
+
 ## How can I use it?
 Clone this repo and build the image:
 ```
