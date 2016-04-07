@@ -4,8 +4,6 @@ MAINTAINER "Juliana Leclaire" <juliana.leclaire@enalean.com>
 
 RUN apk add --no-cache nodejs
 
-RUN npm install -g grunt-cli
-
 ENV NODE_ENV dev
 
 VOLUME /nodeapp
