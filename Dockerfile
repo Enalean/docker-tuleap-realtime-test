@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.4
 
 MAINTAINER "Juliana Leclaire" <juliana.leclaire@enalean.com>
 
